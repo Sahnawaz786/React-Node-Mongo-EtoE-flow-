@@ -1,0 +1,8 @@
+How many ways we can use dispatch method
+
+1.By using store we cam use dispatch method store.dispatch
+
+
+2.connect method second arguments is dispatch
+
+3.By using redux-thunk
